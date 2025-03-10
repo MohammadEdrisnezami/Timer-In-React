@@ -31,7 +31,7 @@ bash
 
 Copy
 # Clone repository
-git clone https://github.com/yourusername/timer-app.git
+git clone [https://github.com/yourusername/timer-app.git](https://github.com/MohammadEdrisnezami/reactChallange)
 
 # Install dependencies
 npm install
